@@ -1,0 +1,4 @@
+cpe==1.2.1
+requests==2.22.0
+psycopg2==2.8.4
+python_dateutil==2.8.1
